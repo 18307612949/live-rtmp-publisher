@@ -1,6 +1,6 @@
 
-博客----blog.csdn.net/scnu20142005027/article/details/56847293
-
+博客---  blog.csdn.net/scnu20142005027/article/details/56847293
+cmake-- blog.csdn.net/z_h_s/article/details/50699905
 # Dependencies
 - x264  
 ```
