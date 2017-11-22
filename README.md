@@ -1,6 +1,7 @@
 
 博客---  blog.csdn.net/scnu20142005027/article/details/56847293
-cmake-- blog.csdn.net/z_h_s/article/details/50699905
+cmake-- blog.csdn.net/z_h_s/article/details/50699905 
+alsa--- blog.sina.com.cn/s/blog_6340cd9c0101ff4f.html
 # Dependencies
 - x264  
 ```
